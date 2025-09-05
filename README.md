@@ -7,11 +7,9 @@ Ex: Pagamento de mensalidades;
     Reservas em geral (quiosques, quadra                         de futebol, etc);
     Divulgação de eventos.
 
-# Tecnologias utilizadas:
-React;
-JavaScript (ES6+);
-HTML5;
-CSS3.
+# Tecnologias utilizadas
+Flutter;
+Microsoft SQL Server.
 
 # O que aprendi:
 Arquitetura de banco de dados;
